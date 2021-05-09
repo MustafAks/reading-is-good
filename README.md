@@ -51,3 +51,6 @@ curl --location --request POST 'http://localhost:9090/authenticate' \
 reading-is-good\postman-collection
 
 -------------------------------------
+
+
+![image](https://user-images.githubusercontent.com/34651478/117572460-b3744500-b0db-11eb-9c4b-5b365e43b2b5.png)
